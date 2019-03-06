@@ -1,8 +1,0 @@
-spring:
-  application:
-     name: myConfigServer
-  profiles:
-     active: native
-my:
-  prop0: val0
-  prop00: val00
